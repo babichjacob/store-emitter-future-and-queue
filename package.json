@@ -1,0 +1,28 @@
+{
+	"name": "@babichjacob/store-emitter-future-and-queue-workspace-root",
+	"private": true,
+	"version": "0.0.1",
+	"description": "Create stores and emitters, and act on them in useful ways",
+	"author": "J / Jacob Babich <jacobbabichpublic+git@gmail.com>",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/babichjacob/store-emitter-future-and-queue.git"
+	},
+	"bugs": {
+		"url": "https://github.com/babichjacob/store-emitter-future-and-queue/issues"
+	},
+	"homepage": "https://github.com/babichjacob/store-emitter-future-and-queue",
+	"scripts": {
+		"check": "tsc --project jsconfig.json",
+		"lint": "prettier --check . && eslint --max-warnings 0 --ignore-path .gitignore .",
+		"format": "prettier --write ."
+	},
+	"devDependencies": {
+		"eslint": "^8.23.1",
+		"eslint-config-prettier": "^8.5.0",
+		"eslint-plugin-only-warn": "^1.0.3",
+		"prettier": "^2.7.1",
+		"typescript": "^4.8.3"
+	}
+}

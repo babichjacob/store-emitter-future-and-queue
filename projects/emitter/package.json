@@ -1,0 +1,23 @@
+{
+	"name": "@babichjacob/emitter",
+	"version": "0.0.1",
+	"description": "An event emitter",
+	"author": "J / Jacob Babich <jacobbabichpublic+git@gmail.com>",
+	"keywords": [
+		"emitter"
+	],
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/babichjacob/store-emitter-future-and-queue.git"
+	},
+	"bugs": {
+		"url": "https://github.com/babichjacob/store-emitter-future-and-queue/issues"
+	},
+	"homepage": "https://github.com/babichjacob/store-emitter-future-and-queue",
+	"files": [
+		"index.d.ts",
+		"index.js"
+	],
+	"type": "module"
+}

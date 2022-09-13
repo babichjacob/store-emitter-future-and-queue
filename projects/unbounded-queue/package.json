@@ -1,0 +1,27 @@
+{
+	"name": "@babichjacob/unbounded-queue",
+	"version": "0.0.1",
+	"description": "An unbounded queue data structure",
+	"author": "J / Jacob Babich <jacobbabichpublic+git@gmail.com>",
+	"keywords": [
+		"queue"
+	],
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/babichjacob/store-emitter-future-and-queue.git"
+	},
+	"bugs": {
+		"url": "https://github.com/babichjacob/store-emitter-future-and-queue/issues"
+	},
+	"homepage": "https://github.com/babichjacob/store-emitter-future-and-queue",
+	"files": [
+		"index.d.ts",
+		"index.js"
+	],
+	"type": "module",
+	"dependencies": {
+		"@babichjacob/future": "workspace:0.0.1",
+		"denque": "^2.1.0"
+	}
+}

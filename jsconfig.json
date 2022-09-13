@@ -1,0 +1,15 @@
+{
+	"compilerOptions": {
+		"checkJs": true,
+		"maxNodeModuleJsDepth": 0,
+		"module": "es2022",
+		"moduleResolution": "node",
+		"noEmit": true,
+		"noImplicitAny": true,
+		"resolveJsonModule": true,
+		"strict": true,
+		"target": "es2022"
+	},
+	"include": ["./**/*.js", "./**/*.d.ts"],
+	"exclude": ["node_modules"]
+}

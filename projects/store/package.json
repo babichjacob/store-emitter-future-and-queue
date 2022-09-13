@@ -1,0 +1,23 @@
+{
+	"name": "@babichjacob/store",
+	"version": "0.0.1",
+	"description": "An alternate implementation of `svelte/store` for use outside of Svelte projects",
+	"author": "J / Jacob Babich <jacobbabichpublic+git@gmail.com>",
+	"keywords": [
+		"store"
+	],
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/babichjacob/store-emitter-future-and-queue.git"
+	},
+	"bugs": {
+		"url": "https://github.com/babichjacob/store-emitter-future-and-queue/issues"
+	},
+	"homepage": "https://github.com/babichjacob/store-emitter-future-and-queue",
+	"files": [
+		"index.d.ts",
+		"index.js"
+	],
+	"type": "module"
+}

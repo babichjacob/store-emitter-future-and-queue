@@ -1,0 +1,26 @@
+{
+	"name": "@babichjacob/emitter-tools",
+	"version": "0.0.1",
+	"description": "Tools for event emitters",
+	"author": "J / Jacob Babich <jacobbabichpublic+git@gmail.com>",
+	"keywords": [
+		"emitter"
+	],
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/babichjacob/store-emitter-future-and-queue.git"
+	},
+	"bugs": {
+		"url": "https://github.com/babichjacob/store-emitter-future-and-queue/issues"
+	},
+	"homepage": "https://github.com/babichjacob/store-emitter-future-and-queue",
+	"files": [
+		"index.d.ts",
+		"index.js"
+	],
+	"type": "module",
+	"dependencies": {
+		"@babichjacob/unbounded-queue": "workspace:0.0.1"
+	}
+}
