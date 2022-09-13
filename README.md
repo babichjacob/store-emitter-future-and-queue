@@ -4,10 +4,10 @@
 
 This is a collection of libraries that provide capabilities like the repository name suggests:
 
-- Store
-- Emitter
-- Future
-- Queue
+- [Store](https://github.com/babichjacob/store-emitter-future-and-queue/tree/main/projects/store)
+- [Emitter](https://github.com/babichjacob/store-emitter-future-and-queue/tree/main/projects/emitter)
+- [Future](https://github.com/babichjacob/store-emitter-future-and-queue/tree/main/projects/future)
+- [Unbounded Queue](https://github.com/babichjacob/store-emitter-future-and-queue/tree/main/projects/unbounded-queue)
 
 ## 💻 Installation
 
